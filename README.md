@@ -10,7 +10,7 @@ typora-root-url: ./Figures
 
 For deploying the backend code, we should firstly create a Google Cloud Platform Project.
 
-![creat_project](./creat_project.png)
+![creat_project](https://github.com/zzbright1998/High-Performance-Computing/blob/main/Figures/creat_project.png?raw=true)
 
 
 
